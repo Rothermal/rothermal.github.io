@@ -54,3 +54,7 @@ h3 a {
 h3 a:hover {
 	color:#0000FF;
 }
+@media only screen and (max-device-width: 480px) {
+background:	url("https://40.media.tumblr.com/a36340b89b8857d8fb59eb802cc09853/tumblr_nx03vrQxM21ukuh1zo2_400.jpg") center repeat;
+background-color:#E1B335;
+		}
